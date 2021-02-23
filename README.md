@@ -1,2 +1,2 @@
 # SimpleReactApp
-A simple React JS website.
+A React JS website.
